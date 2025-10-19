@@ -23,9 +23,3 @@ The dataset used for this project contains real-world data science job informati
 - **💰 Salaries**
 - **📍 Locations**
 - **🛠️ Skills**
-
-## Dashboard Build
-
-### 📉 Charts
-
-#### 📊 Data Science Job Salaries - Bar Chart
