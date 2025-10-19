@@ -10,6 +10,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 
 ## Salary Analysis
+This section examines which technical skills—spanning SQL, Excel, Python, and more are most sought after for data-focused careers. The charts indicate that professionals with expertise across more tools and platforms are often rewarded with higher median salaries, emphasizing the benefit of expanding your skillset in this field.
 [Check out my work here](Project_2-Analysis)
 
 <img width="707" height="435" alt="Project 2 Analysis Chart 1" src="https://github.com/user-attachments/assets/209f7d77-260a-45a6-ba6b-7ace99df4fee" />
