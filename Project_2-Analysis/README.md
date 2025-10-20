@@ -3,6 +3,9 @@
 ### Introduction
 This section examines which technical skills—spanning SQL, Excel, Python, and more are most sought after for data-focused careers. The charts indicate that professionals with expertise across more tools and platforms are often rewarded with higher median salaries, emphasizing the benefit of expanding your skillset in this field.
 
+### Analysis File
+Check the analysis in [Salary_Analysis](Project_2-Analysis)
+
 ### Questions to Analyze
 
 To understand the data science job market, I asked the following:
