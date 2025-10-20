@@ -1,6 +1,6 @@
-## Excel Salary Analysis
+# Excel Salary Analysis
 
-### Introduction
+## Introduction
 This section examines which technical skills—spanning SQL, Excel, Python, and more are most sought after for data-focused careers. The charts indicate that professionals with expertise across more tools and platforms are often rewarded with higher median salaries, emphasizing the benefit of expanding your skillset in this field.
 
 ### Analysis File
