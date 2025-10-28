@@ -16,3 +16,7 @@ This section examines which technical skills—spanning SQL, Excel, Python, and 
 
 <img width="707" height="435" alt="Project 2 Analysis Chart 1" src="https://github.com/user-attachments/assets/209f7d77-260a-45a6-ba6b-7ace99df4fee" />
 <img width="520" height="344" alt="Project 2 Analysis Chart 3" src="https://github.com/user-attachments/assets/58752937-253d-4f5c-b43c-0e336b7e3112" />
+
+## Conclusion
+
+I created this dashboard to showcase insights into salary trends across various data-related job titles. This dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
